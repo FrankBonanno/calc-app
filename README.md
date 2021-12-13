@@ -1,15 +1,19 @@
 # Simple React Calculator
 -------------------------
-- [ ] Output
-    - [ ] Prev Output
-    - [ ] Next Output
-- [ ] Buttons
-    - [ ] Clear
-    - [ ] Delete
-    - [ ] Divide
-    - [ ] Multiply
-    - [ ] Add
-    - [ ] Subtract
-    - [ ] Equals
-    - [ ] .
-    - [ ] 0-9
+- [X] Output
+    - [X] Prev Output
+    - [X] Next Output
+    - [X] Reducer Actions
+- [X] Buttons
+    - [X] Clear
+    - [X] Delete
+    - [X] Divide
+    - [X] Multiply
+    - [X] Add
+    - [X] Subtract
+    - [X] Equals
+    - [X] .
+    - [X] 0-9
+- [X] Format Numbers
+- [ ] Deploy
+- [ ] Put on Portfolio
