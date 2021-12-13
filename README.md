@@ -15,5 +15,5 @@
     - [X] .
     - [X] 0-9
 - [X] Format Numbers
-- [ ] Deploy
-- [ ] Put on Portfolio
+- [X] Deploy
+- [X] Put on Portfolio
